@@ -47,3 +47,68 @@
   <tbody><tr>
      <td align="center" width="96">
       <a href="#debabin-stack">
+<img src="https://camo.githubusercontent.com/00944c4fb7b198c4e0d587311e3eef83b154bc0801f9aa8a95ce2f19b7886d77/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f452f45736c696e742d69636f6e2d766563746f722d30322e737667" width="48" height="48" alt="Eslint" data-canonical-src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" style="max-width: 100%;">
+      </a>
+      <br>Eslint
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://camo.githubusercontent.com/2be62e3ada685dd9b4fe333d8e0b424f4e8d8b5bed126edaf86eb73afd27fce8/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f502f50726574746965722d69636f6e2d766563746f722d30322e737667" width="48" height="48" alt="Prettier" data-canonical-src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" style="max-width: 100%;">
+      </a>
+      <br>Prettier
+    </td>
+  </tr> 
+</tbody></table>
+<blockquote>
+<p dir="auto">Frontend</p>
+</blockquote>
+<table width="100%">
+  <tbody><tr>
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://camo.githubusercontent.com/77f6f4ed2bcf02341da77ebed65c13650c351a5256739d5f7deb535d2f91ada8/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30392f72656163742d6c6f676f2e706e67" width="48" height="48" alt="React" data-canonical-src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" style="max-width: 100%;">
+      </a>
+     <br>React JS
+    </td>
+      <td align="center" width="96"> 
+      <a href="#debabin-stack">
+        <img src="https://camo.githubusercontent.com/7b7f04b16cc2d2d4a32985710e4d640985337a32bbb1e60cdacede2c8a4ae57b/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656475782e737667" width="48" height="48" alt="Redux" data-canonical-src="https://cdn.worldvectorlogo.com/logos/redux.svg" style="max-width: 100%;">
+      </a>
+      <br>Redux
+    </td>
+   <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://camo.githubusercontent.com/4112948ca937900fbcd0eb4a0ed71f8672399586f4614ef7119268d079207878/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f626f6f7473747261702d342e737667" width="48" height="48" alt="Bootstrap" data-canonical-src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" style="max-width: 100%;">
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96"> 
+      <a href="#debabin-stack">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" style="max-width: 100%;">
+      </a>
+      <br>Css3
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" style="max-width: 100%;">
+      </a>
+      <br>Html5
+    </td>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack">
+        <img src="https://camo.githubusercontent.com/338a81ac4126a9365d330227e202208df6eb8f5b2141103a0d3dec75bd80c8c9/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f572f5765627061636b2d69636f6e2d766563746f722d30322e737667" width="48" height="48" alt="Webpack" data-canonical-src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" style="max-width: 100%;">
+      </a>
+      <br>Webpack
+    </td>
+      <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://camo.githubusercontent.com/ceb810784f2bc1e1815e427f42d1134e5650943d43a6e94deb8b7075ab3e10c5/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f532f536173732d69636f6e2d766563746f722d30342e737667" width="48" height="48" alt="Sass" data-canonical-src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" style="max-width: 100%;">
+      </a>
+      <br>Sass
+    </td>
+  </tr> 
+</tbody></table>
+<blockquote>
+<p dir="auto">Backend</p>
+</blockquote>
+<table width="100%">
