@@ -113,7 +113,7 @@
 </blockquote>
 <table width="100%">
 
-...<tbody><tr>
+<tbody><tr>
     <td align="center" width="96"> 
       <a href="#debabin-stack">
         <img src="https://camo.githubusercontent.com/f81ddb45a6c5ed619d8daa54e0ab4385d66f2bf1386d96e91e91e4a63b5711c1/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f4e2f4e6f64656a732d69636f6e2d766563746f722d30322e737667" width="48" height="48" alt="Node JS" data-canonical-src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" style="max-width: 100%;">
