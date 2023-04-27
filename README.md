@@ -112,7 +112,6 @@
 <p dir="auto">Backend</p>
 </blockquote>
 <table width="100%">
-  Аслан
 
 ...<tbody><tr>
     <td align="center" width="96"> 
